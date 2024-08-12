@@ -1,0 +1,16 @@
+h1 {
+    color: rgba(60, 165, 186, 0.267);
+    /*font-size: small;*/
+    background-color: blue;
+}
+
+button {
+    color: darkviolet ;
+    background-color: #d2b48c;
+}
+
+p {
+    color: white;
+    background-color: rgba(159, 146, 217, 0.267);
+
+}
