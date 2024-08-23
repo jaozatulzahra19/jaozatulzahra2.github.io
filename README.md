@@ -30,5 +30,6 @@ https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-CSS/Latihan-C
 #Belajar Booststrap
 
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-Boostrap/index.html
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-Boostrap/studi-kasus/museum.html
 
 
