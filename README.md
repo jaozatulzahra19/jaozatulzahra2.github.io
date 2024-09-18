@@ -32,4 +32,8 @@ https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-CSS/Latihan-C
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-Boostrap/index.html
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-Boostrap/studi-kasus/museum.html
 
+#Belajar Javascript Dom
+
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-javascript-dom/papanskor/index.html
+
 
