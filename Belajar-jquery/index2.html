@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Document</title>
+    <style>
+        .pink {
+            color: palevioletred;
+        }
+
+        .coklat {
+            color: brown;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Kemana Anda ingin pergi ?</h1>
+    <ul class="lokasi">
+        <li class="bandung">Bandung</li>
+        <li class="surabaya">Surabaya</li>
+        <li class="jakarta">Jogjakarta</li>
+
+    </ul>
+    <button id="gantiBiru">Jadi pink!</button>
+    <button id="gantiMerah">Jadi coklat!</button>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.bandung').addClass('pink');
+            $('#gantiCoklat').on('click', function () {
+                $('.bandung').removeClass('pink');
+                $('.bandung').addClass('coklat');
+            });
+            $('#gantiPink').on('click', function () {
+                $('.bandung').removeClass('coklat');
+                $('.bandung').addClass('pink');
+            });
+        });
+    </script>
+</body>
+
+</html>
