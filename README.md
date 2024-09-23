@@ -36,4 +36,10 @@ https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-Boostrap/stud
 
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-javascript-dom/papanskor/index.html
 
+#Belajar jQuery
+
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-jquery/index1.html
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-jquery/index2.html
+
+
 
