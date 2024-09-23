@@ -41,5 +41,9 @@ https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-javascript-do
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-jquery/index1.html
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-jquery/index2.html
 
+#Belajar Ajax
+
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar%20Ajax/tvshow/index.html
+
 
 
