@@ -49,6 +49,9 @@ https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-JsAsync/backg
 
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar%20Ajax/tvshow/index.html
 
+#Belajar Landing page dengan booststrap 4
+
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Portofolio/index.html
 
 #Tugas besar mandiri 
 
