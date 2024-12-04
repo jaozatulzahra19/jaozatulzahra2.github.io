@@ -50,4 +50,9 @@ https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar-JsAsync/backg
 https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/Belajar%20Ajax/tvshow/index.html
 
 
+# Tugas besar mandiri 
+
+https://jaozatulzahra19.github.io/jaozatulzahra2.github.io/portofoliooja/index.html
+
+
 
